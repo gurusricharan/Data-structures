@@ -1,5 +1,3 @@
-package replace;
-
 import java.util.Scanner;
 
 public class postfix {

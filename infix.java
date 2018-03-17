@@ -1,5 +1,3 @@
-package replace;
-
 public class infix {
 
 	 void infix_postfix(char infix[],char postfix[]) {
